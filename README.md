@@ -11,6 +11,12 @@ Examples of RSpec inital concepts.
 
 ## Steps
 
+1. Clone this repo:
+
+```
+$ git clone https://github.com/taisedias/rspec-samples.git
+```
+
 1. Access the root dir
 
 1. Run the following commands:
