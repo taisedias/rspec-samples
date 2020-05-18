@@ -1,0 +1,48 @@
+Documentation:
+  Enabled: false
+
+Layout/ParameterAlignment:
+  EnforcedStyle: with_fixed_indentation
+
+Layout/FirstParameterIndentation:
+  EnforcedStyle: consistent
+
+Layout/FirstHashElementIndentation:
+  EnforcedStyle: consistent
+
+Layout/MultilineMethodCallBraceLayout:
+  EnforcedStyle: new_line
+
+Metrics:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Naming/MethodParameterName:
+  Enabled: false
+
+Style/Lambda:
+  Enabled: false
+
+Style/AndOr:
+  EnforcedStyle: conditionals
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/SymbolArray:
+  Exclude:
+    - 'Gemfile'
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/BlockComments:
+  Enabled: false
+  
+AllCops:
+  TargetRubyVersion: 2.5
+  Exclude:
+    - '.git/**/*'
+    - '.irbc'
