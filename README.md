@@ -17,9 +17,9 @@ Examples of RSpec inital concepts.
 $ git clone https://github.com/taisedias/rspec-samples.git
 ```
 
-1. Access the root dir
+2. Access the root dir
 
-1. Run the following commands:
+3. Run the following commands:
 
 ```
 $ docker build -t rspec-samples .
