@@ -35,5 +35,5 @@ $ rspec
 5. Run static code analyzer and code formatter:
 
 ```
-rubocop
+$ rubocop
 ```
