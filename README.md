@@ -11,7 +11,9 @@ Examples of RSpec inital concepts.
 
 ## Steps
 
-Run the following commands:
+1. Access the root dir
+
+2.Run the following commands:
 
 ```
 $ docker build -t rspec-samples .
