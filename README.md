@@ -25,3 +25,15 @@ $ git clone https://github.com/taisedias/rspec-samples.git
 $ docker build -t rspec-samples .
 $ docker run -v $PWD:/rspec-samples -it rspec-samples /bin/bash
 ```
+
+# Run tests
+
+```
+$ rspec
+```
+
+# Run static code analyzer and code formatter
+
+```
+rubocop
+```
