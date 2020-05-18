@@ -1,6 +1,6 @@
 # RSpec Samples
 
-Examples of RSpec inital concepts.
+Examples of Ruby, and RSpec inital concepts.
 
 ## Setup Development Environment
 
