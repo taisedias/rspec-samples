@@ -2,14 +2,14 @@
 
 Examples of RSpec inital concepts.
 
-# Setup Development Environment
+## Setup Development Environment
 
-## Requirements
+### Requirements
 
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Docker](https://docs.docker.com/get-docker/)
 
-## Steps
+### Steps
 
 1. Clone this repo:
 
@@ -26,13 +26,13 @@ $ docker build -t rspec-samples .
 $ docker run -v $PWD:/rspec-samples -it rspec-samples /bin/bash
 ```
 
-# Run tests
+4. Run specs:
 
 ```
 $ rspec
 ```
 
-# Run static code analyzer and code formatter
+5. Run static code analyzer and code formatter:
 
 ```
 rubocop
