@@ -13,7 +13,7 @@ Examples of RSpec inital concepts.
 
 1. Access the root dir
 
-2.Run the following commands:
+1. Run the following commands:
 
 ```
 $ docker build -t rspec-samples .
